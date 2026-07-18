@@ -49,15 +49,20 @@ This repository contains a complete **production-ready Docker setup** for Django
 
 ## 📦 Technology Stack
 
-| Category | Technology | Version |
-|----------|-----------|---------|
-| **Container** | Docker, Docker Compose | 29.0, 3.8 |
-| **Web Server** | Nginx | 1.27 (Alpine) |
-| **WSGI Server** | Gunicorn | 21.2 |
-| **Backend** | Python, Django | 3.13, 4.2 |
-| **Database** | PostgreSQL | 15 (Alpine) |
-| **Cache & Queue** | Redis, Celery | 7, 5.3 |
-| **Monitoring** | Flower | 2.0 |
+| Category | Technology | Icon |
+|----------|------------|------|
+| **Backend** | Python 3.13 | 🐍 |
+| | Django 4.2 | 🎯 |
+| | DRF 3.14 | 🔌 |
+| **Database** | PostgreSQL 15 | 🐘 |
+| **Cache** | Redis 7 | ⚡ |
+| **Queue** | Celery 5.3 | 🔄 |
+| **Web Server** | Nginx 1.27 | 🚪 |
+| | Gunicorn 21.2 | 🔧 |
+| **Container** | Docker 29 | 🐳 |
+| | Docker Compose 3.8 | 📦 |
+| **Monitoring** | Flower 2.0 | 🌸 |
+| **Auth** | JWT | 🔐 |
 
 ---
 
